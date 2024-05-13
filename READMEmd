@@ -1,0 +1,11 @@
+# ToDo Application
+
+This is a simple **ToDo** Application.
+It has the following features -
+
+-- AnyOne can create a todo
+-- AnyOne can see their existing todos
+-- AnyOne can mark a todo as done
+
+//Initializing a node Project
+---> put a package.json
